@@ -1,0 +1,27 @@
+{
+    "name": "Scenario 1 - Ridge",
+    "description": "One UGV's path is way longer, so synchronization is required.",
+    "gridPath": "../BenchmarkScenarios/Scenario 1 - Ridge.txt",
+    "startUGV1": {
+        "x": 100,
+        "y": 82
+    },
+    "startUGV2": {
+        "x": 50,
+        "y": 57
+    },
+    "goalUGV1": {
+        "x": 130,
+        "y": 186
+    },
+    "goalUGV2": {
+        "x": 77,
+        "y": 209
+    },
+    "startUAV": {
+        "x": 50,
+        "y": 50,
+        "z": 2150
+    },
+    "maxAllowedLineOfSight": 275
+}

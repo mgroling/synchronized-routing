@@ -1,0 +1,27 @@
+{
+    "name": "Scenario 6 - Wait for UAV 2",
+    "description": "The UGVs can't go directly to their destination and must wait for the UAV.",
+    "gridPath": "../BenchmarkScenarios/Scenario 6 - Wait for UAV 2.txt",
+    "startUGV1": {
+        "x": 125,
+        "y": 120
+    },
+    "startUGV2": {
+        "x": 125,
+        "y": 130
+    },
+    "goalUGV1": {
+        "x": 10,
+        "y": 10
+    },
+    "goalUGV2": {
+        "x": 10,
+        "y": 240
+    },
+    "startUAV": {
+        "x": 230,
+        "y": 125,
+        "z": 0
+    },
+    "maxAllowedLineOfSight": 116
+}

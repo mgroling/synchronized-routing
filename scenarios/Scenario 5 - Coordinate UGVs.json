@@ -1,0 +1,27 @@
+{
+    "name": "Scenario 5 - Coordinate UGVs",
+    "description": "One of the UGVs need to first go away from its destination, so that the LOS constraint over the river can be met.",
+    "gridPath": "../BenchmarkScenarios/Scenario 5 - Coordinate UGVs.txt",
+    "startUGV1": {
+        "x": 25,
+        "y": 20
+    },
+    "startUGV2": {
+        "x": 25,
+        "y": 30
+    },
+    "goalUGV1": {
+        "x": 225,
+        "y": 125
+    },
+    "goalUGV2": {
+        "x": 225,
+        "y": 225
+    },
+    "startUAV": {
+        "x": 25,
+        "y": 25,
+        "z": 0
+    },
+    "maxAllowedLineOfSight": 75
+}

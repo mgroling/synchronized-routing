@@ -1,0 +1,27 @@
+{
+    "name": "Scenario 4 - Box",
+    "description": "The shortest path is a straight line for each UGV, however that won't allow for line-of-sight. One of them needs to go to the other, so that they can go together.",
+    "gridPath": "../BenchmarkScenarios/Scenario 4 - Box.txt",
+    "startUGV1": {
+        "x": 75,
+        "y": 75
+    },
+    "startUGV2": {
+        "x": 75,
+        "y": 425
+    },
+    "goalUGV1": {
+        "x": 425,
+        "y": 75
+    },
+    "goalUGV2": {
+        "x": 425,
+        "y": 425
+    },
+    "startUAV": {
+        "x": 75,
+        "y": 250,
+        "z": 50
+    },
+    "maxAllowedLineOfSight": 200
+}

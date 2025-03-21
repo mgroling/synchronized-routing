@@ -1,0 +1,27 @@
+{
+    "name": "Scenario 2 - Hill",
+    "description": "Both vehicles may go around the hill on their side, however that will require that they do not drive too close to it.",
+    "gridPath": "../BenchmarkScenarios/Scenario 2 - Hill.txt",
+    "startUGV1": {
+        "x": 87,
+        "y": 52
+    },
+    "startUGV2": {
+        "x": 50,
+        "y": 62
+    },
+    "goalUGV1": {
+        "x": 157,
+        "y": 208
+    },
+    "goalUGV2": {
+        "x": 111,
+        "y": 214
+    },
+    "startUAV": {
+        "x": 80,
+        "y": 50,
+        "z": 2115
+    },
+    "maxAllowedLineOfSight": 250
+}

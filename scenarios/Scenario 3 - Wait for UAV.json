@@ -1,0 +1,27 @@
+{
+    "name": "Scenario 3 - Wait for UAV",
+    "description": "The distance between the UGVs and the UAV is very close to the maximum distance, the UGVs will likely have to wait for the UAV.",
+    "gridPath": "../BenchmarkScenarios/Scenario 3 - Wait for UAV.txt",
+    "startUGV1": {
+        "x": 214,
+        "y": 210
+    },
+    "startUGV2": {
+        "x": 250,
+        "y": 236
+    },
+    "goalUGV1": {
+        "x": 50,
+        "y": 139
+    },
+    "goalUGV2": {
+        "x": 173,
+        "y": 50
+    },
+    "startUAV": {
+        "x": 399,
+        "y": 406,
+        "z": 2092
+    },
+    "maxAllowedLineOfSight": 320
+}
