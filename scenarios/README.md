@@ -1,1 +1,1 @@
-This directory contains the used scenarios. Scenarios 1, 2, and 3 were created using the lake Tahoe data set from USGS and the Lake Tahoe Clearinghouse. Scenarios 4, 5, and 6 are custom-made.
+This directory contains the used scenarios. Scenarios 1, 2, and 3 were created using the lake Tahoe data set from USGS and the Lake Tahoe Clearinghouse, see [README.txt](README.txt). Scenarios 4, 5, and 6 are custom-made.
